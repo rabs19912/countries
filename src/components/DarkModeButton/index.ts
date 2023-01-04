@@ -1,0 +1,1 @@
+export {DarkModeButton as default} from './DarkModeButton';
